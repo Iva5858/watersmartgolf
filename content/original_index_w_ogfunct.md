@@ -1,6 +1,6 @@
 ---
 navigation:
-  title: Home
+  title: Resources
 ---
 
 # Water Smart Golf
